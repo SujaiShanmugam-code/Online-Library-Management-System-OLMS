@@ -3,28 +3,44 @@ import { User, Book, BorrowedBook } from "@/types";
 export const users: User[] = [
   {
     id: "1",
-    username: "student1",
-    email: "student1@example.com",
-    password: "password123", // Would be hashed in real application
+    username: "gasim",
+    email: "gasim@gmail.com",
+    password: "gasim123", // Would be hashed in real application
     role: "student",
-    name: "John Smith"
+    name: "Gasim"
   },
   {
     id: "2",
     username: "admin1",
-    email: "admin1@example.com",
-    password: "admin123", // Would be hashed in real application
+    email: "sujai_admin@olms.in",
+    password: "sujai123", // Would be hashed in real application
     role: "admin",
-    name: "Sarah Johnson"
+    name: "Sujai Shanmugam"
   },
   {
     id: "3",
-    username: "student2",
-    email: "student2@example.com",
-    password: "password123", // Would be hashed in real application
+    username: "abbas",
+    email: "abbas@gmail.com",
+    password: "abbas123", // Would be hashed in real application
     role: "student",
-    name: "Emily Davis"
+    name: "Abbas"
   },
+  {
+    id: "4",
+    username: "davyd",
+    email: "davyd@gmail.com",
+    password: "davyd123", // Would be hashed in real application
+    role: "student",
+    name: "Davyd"
+  },
+  {
+    id: "5",
+    username: "rufi",
+    email: "rufi@gmail.com",
+    password: "rufi123", // Would be hashed in real application
+    role: "student",
+    name: "Rufi"
+  }
 ];
 
 export const books: Book[] = [
