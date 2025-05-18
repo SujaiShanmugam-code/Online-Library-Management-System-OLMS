@@ -1,73 +1,71 @@
-# Welcome to your Lovable project
+# 📚 Online Library Management System
 
-## Project info
+A Software Eginnering Project , the library management system that helps libraries manage their circulation of books, data of books and resources, as well as the user's data, making it easy for the librarian or the staff to manage and access the information efficiently.
 
-**URL**: https://lovable.dev/projects/ca2c27aa-694a-43a0-9241-ff4fc8aad952
+![React](https://img.shields.io/badge/Frontend-React-lightblue)
+![Java](https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-blue)
+![MySQL](https://img.shields.io/badge/Database-MySQL-yellow)
+![Docker](https://img.shields.io/badge/Deployment-Docker-green)
+![CI/CD](https://img.shields.io/badge/CI/CD-Jenkins-blueviolet)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Project Overview
 
-**Use Lovable**
+An **Online Library Management System** built as a full-stack CRUD web application. This system supports robust login, user authentication, and provides real-time insights into library activity.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ca2c27aa-694a-43a0-9241-ff4fc8aad952) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🧰 Tech Stack
 
-**Use your preferred IDE**
+### Frontend:
+- HTML, CSS, TypeScript
+- **React**
+- React Router & AuthGuard
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Backend:
+- Java 17
+- Spring Boot 3
+- Spring Data JPA
+- REST API
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Database:
+- MySQL
 
-Follow these steps:
+### DevOps & Deployment:
+- Docker (for containerization)
+- Jenkins (CI/CD pipeline)
+- Git (version control)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🔐 Features
 
-# Step 3: Install the necessary dependencies.
-npm i
+- ✅ **Admin & Student Login** with authentication
+- 📚 **CRUD Operations** for books and borrowed books
+- 🧑‍💼 Admin dashboard with total books & borrowed stats
+- 🔍 Search & filter books and borrowed entries
+- 🔐 Authentication system secured with Angular **AuthGuard**
+- 🔄 **REST API** integration with Spring Boot
+- 🐳 **Dockerized** for easy deployment
+- ⚙️ CI/CD using **Jenkins**
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 📁 Project UI Screenshots
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+<img width="1440" alt="Screenshot 2025-05-18 at 11 52 19 PM" src="https://github.com/user-attachments/assets/4d0e7f27-6f24-4c32-8882-f8a68dae890b" />
 
-**Use GitHub Codespaces**
+<img width="1440" alt="Screenshot 2025-05-18 at 11 52 47 PM" src="https://github.com/user-attachments/assets/b0e717c7-d2fe-45b9-89ea-43abef9c8216" />
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+<img width="1440" alt="Screenshot 2025-05-18 at 11 53 24 PM" src="https://github.com/user-attachments/assets/dd6044a9-92dd-46ab-a5e5-206b1a237301" />
 
-## What technologies are used for this project?
+<img width="1437" alt="Screenshot 2025-05-18 at 11 54 10 PM" src="https://github.com/user-attachments/assets/f2d3fd53-fbce-4b3b-90ae-d3f90da1ce20" />
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## Thank You
 
-Simply open [Lovable](https://lovable.dev/projects/ca2c27aa-694a-43a0-9241-ff4fc8aad952) and click on Share -> Publish.
+# Sujai Shanmugam.
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
