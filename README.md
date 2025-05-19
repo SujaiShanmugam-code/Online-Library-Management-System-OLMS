@@ -65,7 +65,26 @@ An **Online Library Management System** built as a full-stack CRUD web applicati
 
 ---
 
-## Thank You
+## Creators
 
-# Sujai Shanmugam.
+- **Sujai Shanmugam (231ADB016)**
+- **Gasim Jabrayilov (231ADB015)**
+- **Davyd Bogomolov (221ADB232)**
+- **Abbas Rzayev (211ADB023)**
+- **Rufi Aliyev (221ADB153)**
+  
+- **Instructor - (Janis Amolins)**  
+
+---
+
+## Documentation
+
+[Requirement Specification - OLMS.docx](https://github.com/user-attachments/files/20279258/Requirement.Specification.docx)
+
+[System Design Description - OLMS.docx](https://github.com/user-attachments/files/20279259/System.Design.Description.-.OLMS.docx)
+
+---
+
+# Thank You !
+
 
