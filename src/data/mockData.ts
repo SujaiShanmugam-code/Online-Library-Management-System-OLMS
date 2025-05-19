@@ -40,6 +40,22 @@ export const users: User[] = [
     password: "rufi123", // Would be hashed in real application
     role: "student",
     name: "Rufi"
+  },
+  {
+    id: "6",
+    username: "janis.amolins",
+    email: "Janis.Amolins@olms.in",
+    password: "janis123", // Would be hashed in real application
+    role: "admin",
+    name: "Janis Amolins"
+  },
+  {
+    id: "7",
+    username: "janis.student",
+    email: "janis_student@gmail.com",
+    password: "janis123", // Would be hashed in real application
+    role: "student",
+    name: "Janis Student"
   }
 ];
 
