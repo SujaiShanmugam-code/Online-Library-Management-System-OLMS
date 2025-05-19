@@ -40,9 +40,6 @@ const LoginPage: React.FC = () => {
           <div className="flex justify-center mb-4">
             <img src="/images/logo.png" alt="Library Logo" className="h-16 w-auto" />
           </div>
-          <div className="flex justify-center mb-6">
-            <Book className="h-12 w-12 text-library-accent" />
-          </div>
           
           <h1 className="text-3xl font-bold text-center text-white mb-2">
             Online Library Management System
