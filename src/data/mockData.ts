@@ -50,7 +50,7 @@ export const books: Book[] = [
     author: "J.K. Rowling",
     publisher: "Bloomsbury",
     isbn: "978-0-7475-3269-9",
-    coverImage: "/public/images/harry-potter.png",
+    coverImage: "/images/harry-potter.png",
     available: true,
   },
   {
@@ -59,7 +59,7 @@ export const books: Book[] = [
     author: "Charles Darwin",
     publisher: "John Murray",
     isbn: "978-0-6848-3728-0",
-    coverImage: "/public/images/species.png",
+    coverImage: "/images/species.png",
     available: true,
   },
   {
@@ -68,7 +68,7 @@ export const books: Book[] = [
     author: "George Carlin",
     publisher: "Free Press",
     isbn: "978-1-4391-7295-7",
-    coverImage: "/public/images/last-words.png",
+    coverImage: "/images/last-words.png",
     available: true,
   },
   {
@@ -86,7 +86,7 @@ export const books: Book[] = [
     author: "Stephen King",
     publisher: "Doubleday",
     isbn: "978-0-385-12167-5",
-    coverImage: "/public/images/the-shining.png",
+    coverImage: "/images/the-shining.png",
     available: true,
   },
   {
