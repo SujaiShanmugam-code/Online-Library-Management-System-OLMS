@@ -37,6 +37,9 @@ const LoginPage: React.FC = () => {
         </div>
 
         <div className="w-full max-w-md animate-fade-in">
+          <div className="flex justify-center mb-4">
+            <img src="/images/logo.png" alt="Library Logo" className="h-16 w-auto" />
+          </div>
           <div className="flex justify-center mb-6">
             <Book className="h-12 w-12 text-library-accent" />
           </div>
