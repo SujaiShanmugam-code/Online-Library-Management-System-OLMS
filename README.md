@@ -16,6 +16,26 @@ An **Online Library Management System** built as a full-stack CRUD web applicati
 
 ---
 
+## Creators
+
+- **Sujai Shanmugam (231ADB016)**
+- **Gasim Jabrayilov (231ADB015)**
+- **Davyd Bogomolov (221ADB232)**
+- **Abbas Rzayev (211ADB023)**
+- **Rufi Aliyev (221ADB153)**
+  
+- **Instructor - (Janis Amolins)**  
+
+---
+
+## Documentation
+
+[Requirement Specification - OLMS.docx](https://github.com/user-attachments/files/20279258/Requirement.Specification.docx)
+
+[System Design Description - OLMS.docx](https://github.com/user-attachments/files/20279259/System.Design.Description.-.OLMS.docx)
+
+--
+
 ## 🧰 Tech Stack
 
 ### Frontend:
@@ -61,27 +81,6 @@ An **Online Library Management System** built as a full-stack CRUD web applicati
 <img width="1440" alt="Screenshot 2025-05-18 at 11 53 24 PM" src="https://github.com/user-attachments/assets/dd6044a9-92dd-46ab-a5e5-206b1a237301" />
 
 <img width="1437" alt="Screenshot 2025-05-18 at 11 54 10 PM" src="https://github.com/user-attachments/assets/f2d3fd53-fbce-4b3b-90ae-d3f90da1ce20" />
-
-
----
-
-## Creators
-
-- **Sujai Shanmugam (231ADB016)**
-- **Gasim Jabrayilov (231ADB015)**
-- **Davyd Bogomolov (221ADB232)**
-- **Abbas Rzayev (211ADB023)**
-- **Rufi Aliyev (221ADB153)**
-  
-- **Instructor - (Janis Amolins)**  
-
----
-
-## Documentation
-
-[Requirement Specification - OLMS.docx](https://github.com/user-attachments/files/20279258/Requirement.Specification.docx)
-
-[System Design Description - OLMS.docx](https://github.com/user-attachments/files/20279259/System.Design.Description.-.OLMS.docx)
 
 ---
 
