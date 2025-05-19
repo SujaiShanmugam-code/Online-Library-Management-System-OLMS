@@ -16,7 +16,7 @@ An **Online Library Management System** built as a full-stack CRUD web applicati
 
 ---
 
-## Creators
+## 👨‍💻 Creators
 
 - **Sujai Shanmugam (231ADB016)**
 - **Gasim Jabrayilov (231ADB015)**
@@ -28,7 +28,7 @@ An **Online Library Management System** built as a full-stack CRUD web applicati
 
 ---
 
-## Documentation
+## 📝 Documentation
 
 [Requirement Specification - OLMS.docx](https://github.com/user-attachments/files/20279258/Requirement.Specification.docx)
 
